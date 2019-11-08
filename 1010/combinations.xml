@@ -1,0 +1,235 @@
+<root name="1010" sort_questions_randomly="0" type="quiz">
+  <answer_build_info filename="answMEP1010001.png" template="1">
+    <text seq_no="0" text="1" />
+  </answer_build_info>
+   <answer_build_info filename="answMEP1010002.png" template="1">
+    <text seq_no="0" text="2" />
+  </answer_build_info>
+   <answer_build_info filename="answMEP1010003.png" template="1">
+    <text seq_no="0" text="3" />
+  </answer_build_info>
+   <answer_build_info filename="answMEP1010004.png" template="1">
+    <text seq_no="0" text="4" />
+  </answer_build_info>
+   <answer_build_info filename="answMEP1010005.png" template="1">
+    <text seq_no="0" text="5" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010006.png" template="1">
+    <text seq_no="0" text="6" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010007.png" template="1">
+    <text seq_no="0" text="7" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010008.png" template="1">
+    <text seq_no="0" text="8" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010009.png" template="1">
+    <text seq_no="0" text="9" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010010.png" template="1">
+    <text seq_no="0" text="10" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010011.png" template="1">
+    <text seq_no="0" text="0" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010012.png" template="1">
+    <text seq_no="0" text="0,67" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010013.png" template="1">
+    <text seq_no="0" text="0,5" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010014.png" template="1">
+    <text seq_no="0" text="0,1" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010015.png" template="1">
+    <text seq_no="0" text="14" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010016.png" template="1">
+    <text seq_no="0" text="16" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010017.png" template="1">
+    <text seq_no="0" text="1,5" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010018.png" template="1">
+    <text seq_no="0" text="2,5" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010019.png" template="1">
+    <text seq_no="0" text="3,5" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010020.png" template="1">
+    <text seq_no="0" text="4,5" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010021.png" template="1">
+    <text seq_no="0" text="0,8" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010022.png" template="1">
+    <text seq_no="0" text="0,4" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010023.png" template="1">
+    <text seq_no="0" text="20" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010024.png" template="1">
+    <text seq_no="0" text="24" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010025.png" template="1">
+    <text seq_no="0" text="32" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010026.png" template="1">
+    <text seq_no="0" text="40" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010027.png" template="1">
+    <text seq_no="0" text="48" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010028.png" template="1">
+    <text seq_no="0" text="56" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010029.png" template="1">
+    <text seq_no="0" text="70" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010030.png" template="1">
+    <text seq_no="0" text="1,2" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010031.png" template="1">
+    <text seq_no="0" text="2,4" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010032.png" template="1">
+    <text seq_no="0" text="0,2" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010033.png" template="1">
+    <text seq_no="0" text="12" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010034.png" template="1">
+    <text seq_no="0" text="8,8" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010035.png" template="1">
+    <text seq_no="0" text="9,6" />
+  </answer_build_info>
+  <answer_build_info filename="answMEP1010036.png" template="1">
+    <text seq_no="0" text="30" />
+  </answer_build_info>
+  
+  
+  <question_build_info filename="question1010_001_MEP.png" template="2">
+    <image filename="test_time_wave0.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_002_MEP.png" template="2">
+    <image filename="wave_time_T0.5_L1.75_A4.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_003_MEP.png" template="2">
+    <image filename="wave_time_T1.5_L4.5_A0.1.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_004_MEP.png" template="2">
+    <image filename="wave_time_T1.5_L5.25_A5.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_005_MEP.png" template="2">
+    <image filename="wave_time_T2.5_L5_A2.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_006_MEP.png" template="2">
+    <image filename="wave_time_T3.5_L7.0_A1.5.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_007_MEP.png" template="2">
+    <image filename="wave_time_T3_L9_A1.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_008_MEP.png" template="2">
+    <image filename="wave_time_T4.5_L12.375_A0.8.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_009_MEP.png" template="2">
+    <image filename="wave_time_T5_L12.5_A3.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+  <question_build_info filename="question1010_010_MEP.png" template="2">
+    <image filename="wave_time_T8_L20.0_A2.png" seq_no="0" />
+    <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange meter har punktet rejst i alt?" />
+  </question_build_info>
+
+  
+  <question difficulty="1" filename="question1010_001_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010016.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010008.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010004.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010001.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010002.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010011.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_002_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010028.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010026.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010025.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010024.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010011.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010004.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_003_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010030.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010031.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010032.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010001.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010002.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010014.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_004_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010029.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010026.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010023.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010005.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010010.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010011.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_005_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010016.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010002.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010004.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010008.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010025.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010024.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_006_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010033.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010024.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010016.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010009.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010006.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010003.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_007_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010033.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010002.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010001.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010011.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010006.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010004.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_008_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010034.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010035.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010031.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010021.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010008.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010022.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_009_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010036.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010024.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010025.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010003.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010027.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010029.png" is_correct="0" sort="0" />
+  </question>
+  <question difficulty="1" filename="question1010_010_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
+    <answer filename="answMEP1010023.png" is_correct="1" sort="0" />
+    <answer filename="answMEP1010024.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010008.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010016.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010002.png" is_correct="0" sort="0" />
+    <answer filename="answMEP1010004.png" is_correct="0" sort="0" />
+  </question>
+
+</root>

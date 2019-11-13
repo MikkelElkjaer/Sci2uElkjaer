@@ -2,16 +2,16 @@
   <answer_build_info filename="answMEP1008001.png" template="1">
     <text seq_no="0" text="1" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1008002.png" template="1">
+  <answer_build_info filename="answMEP1008002.png" template="1">
     <text seq_no="0" text="2" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1008003.png" template="1">
+  <answer_build_info filename="answMEP1008003.png" template="1">
     <text seq_no="0" text="3" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1008004.png" template="1">
+  <answer_build_info filename="answMEP1008004.png" template="1">
     <text seq_no="0" text="4" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1008005.png" template="1">
+  <answer_build_info filename="answMEP1008005.png" template="1">
     <text seq_no="0" text="5" />
   </answer_build_info>
   <answer_build_info filename="answMEP1008006.png" template="1">
@@ -29,9 +29,6 @@
   <answer_build_info filename="answMEP1008010.png" template="1">
     <text seq_no="0" text="10" />
   </answer_build_info>
-  <answer_build_info filename="answMEP1008011.png" template="1">
-    <text seq_no="0" text="0" />
-  </answer_build_info>
   <answer_build_info filename="answMEP1008012.png" template="1">
     <text seq_no="0" text="0,67" />
   </answer_build_info>
@@ -40,9 +37,6 @@
   </answer_build_info>
   <answer_build_info filename="answMEP1008014.png" template="1">
     <text seq_no="0" text="0,1" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1008015.png" template="1">
-    <text seq_no="0" text="14" />
   </answer_build_info>
   <answer_build_info filename="answMEP1008016.png" template="1">
     <text seq_no="0" text="16" />
@@ -71,8 +65,6 @@
   <answer_build_info filename="answMEP1008024.png" template="1">
     <text seq_no="0" text="0,75" />
   </answer_build_info>
-  
-  
   <question_build_info filename="question1008_001_MEP.png" template="2">
     <image filename="test_time_wave0.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgetop til b&#248;lgetop?" />
@@ -113,7 +105,6 @@
     <image filename="wave_time_T8_L20.0_A2.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgetop til b&#248;lgetop?" />
   </question_build_info>
-  
   <question_build_info filename="question1008_011_MEP.png" template="2">
     <image filename="wave_time_T8_L20.0_A2.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgetop til b&#248;lgedal?" />
@@ -123,7 +114,7 @@
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgetop til b&#248;lgedal?" />
   </question_build_info>
   <question_build_info filename="question1008_013_MEP.png" template="2">
-    <image filename="wave_time_T3_L9_A1.png.png" seq_no="0" />
+    <image filename="wave_time_T3_L9_A1.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgetop til b&#248;lgedal?" />
   </question_build_info>
   <question_build_info filename="question1008_014_MEP.png" template="2">
@@ -134,17 +125,16 @@
     <image filename="test_time_wave0.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgetop til b&#248;lgedal?" />
   </question_build_info>
-  
   <question_build_info filename="question1008_016_MEP.png" template="2">
     <image filename="wave_time_T8_L20.0_A2.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgedal til b&#248;lgetop?" />
   </question_build_info>
-   <question_build_info filename="question1008_017_MEP.png" template="2">
+  <question_build_info filename="question1008_017_MEP.png" template="2">
     <image filename="wave_time_T5_L12.5_A3.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgedal til b&#248;lgetop?" />
   </question_build_info>
   <question_build_info filename="question1008_018_MEP.png" template="2">
-    <image filename="wave_time_T3_L9_A1.png.png" seq_no="0" />
+    <image filename="wave_time_T3_L9_A1.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgedal til b&#248;lgetop?" />
   </question_build_info>
   <question_build_info filename="question1008_019_MEP.png" template="2">
@@ -155,8 +145,6 @@
     <image filename="test_time_wave0.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder tager det punktet at rejse fra b&#248;lgedal til b&#248;lgetop?" />
   </question_build_info>
-  
-  
   <question difficulty="1" filename="question1008_001_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
     <answer filename="answMEP1008002.png" is_correct="1" sort="0" />
     <answer filename="answMEP1008001.png" is_correct="0" sort="0" />
@@ -237,7 +225,6 @@
     <answer filename="answMEP1008016.png" is_correct="0" sort="0" />
     <answer filename="answMEP1008021.png" is_correct="0" sort="0" />
   </question>
-  
   <question difficulty="1" filename="question1008_011_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
     <answer filename="answMEP1008004.png" is_correct="1" sort="0" />
     <answer filename="answMEP1008002.png" is_correct="0" sort="0" />
@@ -278,7 +265,6 @@
     <answer filename="answMEP1008013.png" is_correct="0" sort="0" />
     <answer filename="answMEP1008023.png" is_correct="0" sort="0" />
   </question>
-  
   <question difficulty="1" filename="question1008_016_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
     <answer filename="answMEP1008004.png" is_correct="1" sort="0" />
     <answer filename="answMEP1008002.png" is_correct="0" sort="0" />
@@ -319,5 +305,4 @@
     <answer filename="answMEP1008013.png" is_correct="0" sort="0" />
     <answer filename="answMEP1008023.png" is_correct="0" sort="0" />
   </question>
-
 </root>

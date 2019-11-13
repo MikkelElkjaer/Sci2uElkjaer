@@ -2,16 +2,16 @@
   <answer_build_info filename="answMEP1005001.png" template="1">
     <text seq_no="0" text="1" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1005002.png" template="1">
+  <answer_build_info filename="answMEP1005002.png" template="1">
     <text seq_no="0" text="2" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1005003.png" template="1">
+  <answer_build_info filename="answMEP1005003.png" template="1">
     <text seq_no="0" text="3" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1005004.png" template="1">
+  <answer_build_info filename="answMEP1005004.png" template="1">
     <text seq_no="0" text="4" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1005005.png" template="1">
+  <answer_build_info filename="answMEP1005005.png" template="1">
     <text seq_no="0" text="5" />
   </answer_build_info>
   <answer_build_info filename="answMEP1005006.png" template="1">
@@ -23,29 +23,14 @@
   <answer_build_info filename="answMEP1005008.png" template="1">
     <text seq_no="0" text="8" />
   </answer_build_info>
-  <answer_build_info filename="answMEP1005009.png" template="1">
-    <text seq_no="0" text="9" />
-  </answer_build_info>
   <answer_build_info filename="answMEP1005010.png" template="1">
     <text seq_no="0" text="10" />
   </answer_build_info>
   <answer_build_info filename="answMEP1005011.png" template="1">
     <text seq_no="0" text="0" />
   </answer_build_info>
-  <answer_build_info filename="answMEP1005012.png" template="1">
-    <text seq_no="0" text="0,67" />
-  </answer_build_info>
   <answer_build_info filename="answMEP1005013.png" template="1">
     <text seq_no="0" text="0,5" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1005014.png" template="1">
-    <text seq_no="0" text="-1" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1005015.png" template="1">
-    <text seq_no="0" text="14" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1005016.png" template="1">
-    <text seq_no="0" text="16" />
   </answer_build_info>
   <answer_build_info filename="answMEP1005017.png" template="1">
     <text seq_no="0" text="1,5" />
@@ -56,29 +41,15 @@
   <answer_build_info filename="answMEP1005019.png" template="1">
     <text seq_no="0" text="3,5" />
   </answer_build_info>
-  <answer_build_info filename="answMEP1005020.png" template="1">
-    <text seq_no="0" text="4,5" />
-  </answer_build_info>
   <answer_build_info filename="answMEP1005021.png" template="1">
     <text seq_no="0" text="0,25" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1005022.png" template="1">
-    <text seq_no="0" text="0,1" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1005023.png" template="1">
-    <text seq_no="0" text="0,2" />
   </answer_build_info>
   <answer_build_info filename="answMEP1005024.png" template="1">
     <text seq_no="0" text="0,05" />
   </answer_build_info>
-  <answer_build_info filename="answMEP1005025.png" template="1">
-    <text seq_no="0" text="0,8" />
-  </answer_build_info>
   <answer_build_info filename="answMEP1005026.png" template="1">
     <text seq_no="0" text="3,25" />
   </answer_build_info>
-  
-  
   <question_build_info filename="question1005_001_MEP.png" template="2">
     <image filename="test_wave_0.png" seq_no="0" />
     <text seq_no="0" text="Hvor mange b&#248;lgel&#230;ngder lang er b&#248;lgen?" />
@@ -119,8 +90,6 @@
     <image filename="wave_La7_L24.5_A4.png" seq_no="0" />
     <text seq_no="0" text="Hvor mange b&#248;lgel&#230;ngder lang er b&#248;lgen?" />
   </question_build_info>
-  
-  
   <question difficulty="1" filename="question1005_001_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
     <answer filename="answMEP1005018.png" is_correct="1" sort="0" />
     <answer filename="answMEP1005002.png" is_correct="0" sort="0" />
@@ -201,5 +170,4 @@
     <answer filename="answMEP1005021.png" is_correct="0" sort="0" />
     <answer filename="answMEP1005024.png" is_correct="0" sort="0" />
   </question>
-
 </root>

@@ -1,17 +1,17 @@
-<root name="1006" sort_questions_randomly="0" type="quiz"> 
+<root name="1006" sort_questions_randomly="0" type="quiz">
   <answer_build_info filename="answMEP1006001.png" template="1">
     <text seq_no="0" text="1" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1006002.png" template="1">
+  <answer_build_info filename="answMEP1006002.png" template="1">
     <text seq_no="0" text="2" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1006003.png" template="1">
+  <answer_build_info filename="answMEP1006003.png" template="1">
     <text seq_no="0" text="3" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1006004.png" template="1">
+  <answer_build_info filename="answMEP1006004.png" template="1">
     <text seq_no="0" text="4" />
   </answer_build_info>
-   <answer_build_info filename="answMEP1006005.png" template="1">
+  <answer_build_info filename="answMEP1006005.png" template="1">
     <text seq_no="0" text="5" />
   </answer_build_info>
   <answer_build_info filename="answMEP1006006.png" template="1">
@@ -29,23 +29,11 @@
   <answer_build_info filename="answMEP1006010.png" template="1">
     <text seq_no="0" text="10" />
   </answer_build_info>
-  <answer_build_info filename="answMEP1006011.png" template="1">
-    <text seq_no="0" text="0" />
-  </answer_build_info>
   <answer_build_info filename="answMEP1006012.png" template="1">
     <text seq_no="0" text="0,67" />
   </answer_build_info>
   <answer_build_info filename="answMEP1006013.png" template="1">
     <text seq_no="0" text="0,5" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1006014.png" template="1">
-    <text seq_no="0" text="-1" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1006015.png" template="1">
-    <text seq_no="0" text="14" />
-  </answer_build_info>
-  <answer_build_info filename="answMEP1006016.png" template="1">
-    <text seq_no="0" text="16" />
   </answer_build_info>
   <answer_build_info filename="answMEP1006017.png" template="1">
     <text seq_no="0" text="1,5" />
@@ -59,8 +47,6 @@
   <answer_build_info filename="answMEP1006020.png" template="1">
     <text seq_no="0" text="4,5" />
   </answer_build_info>
-  
-  
   <question_build_info filename="question1006_001_MEP.png" template="2">
     <image filename="test_time_wave0.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder er b&#248;lgens periode/svingningstid?" />
@@ -101,8 +87,6 @@
     <image filename="wave_time_T8_L20.0_A2.png" seq_no="0" />
     <text seq_no="0" text="Figuren viser udsvinget af et fast punkt p&#229; en b&#248;lge som funktion af tiden. Hvor mange sekunder er b&#248;lgens periode/svingningstid?" />
   </question_build_info>
-  
-  
   <question difficulty="1" filename="question1006_001_MEP.png" required_correct_answers="1" sort_answers_randomly="1">
     <answer filename="answMEP1006001.png" is_correct="0" sort="0" />
     <answer filename="answMEP1006002.png" is_correct="1" sort="0" />
@@ -183,5 +167,4 @@
     <answer filename="answMEP1006001.png" is_correct="0" sort="0" />
     <answer filename="answMEP1006010.png" is_correct="0" sort="0" />
   </question>
-
 </root>
